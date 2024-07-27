@@ -1,3 +1,3 @@
 # Amazon Clone website made using HTML and CSS
 <br>
-# By Sujal Agarwal
+<h1>By Sujal Agarwal</h1>
